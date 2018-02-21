@@ -1,5 +1,5 @@
-# template-react
-Simple template to learn to start use react
+# React samples
+React samples
 
 ## Before start run
 
